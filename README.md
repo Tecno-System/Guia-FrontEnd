@@ -1,7 +1,7 @@
 # Guia Front End
 
 ### Guia básico com alguns assuntos essencias para serem utilizados na Tecno System. 
-#### Para uma lista complete recomendo que acessem esse [repositório](https://github.com/kvnol/aprenda-frontend).
+#### Para uma lista com mais tecnologias eu recomendo que acessem esse [repositório].(https://github.com/kvnol/aprenda-frontend).
 
 *Essa lista contém diversas sugestões que abordam o mesmo assunto, então não é obrigatório fazer todos os cursos aqui presente. O essencial é que domine as linguagens de base (HTML, CSS e JS) para depois se aventurar nos outros assuntos.*
 
